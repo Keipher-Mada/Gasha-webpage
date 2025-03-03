@@ -256,10 +256,10 @@ export const gasha_list = [
   },
   {
     _id: '18',
-    name: 'Fire rice Garden',
+    name: 'Fried rice Garden',
     image: g18,
     price: 4,
-    description: 'The famous "Chinese Garden" fire rice with various favorites',
+    description: 'The famous "Chinese Garden" fried rice with various favorites',
     category: 'Miniature',
   },
   {
@@ -272,11 +272,11 @@ export const gasha_list = [
   },
   {
     _id: '20',
-    name: 'Senrio card holder',
+    name: 'Sanrio card holder',
     image: g20,
     price: 15,
     description: 'Mini card holder with Senrio family',
-    category: 'Stationery',
+    category: 'Sanrio',
   },
   {
     _id: '21',
