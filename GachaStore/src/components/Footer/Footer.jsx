@@ -8,7 +8,12 @@ const Footer = () => {
       <div className='footer-content'>
         <div className='footer-content-left'>
           <img src={assets.logo} alt='' className='logo' />
-          <p>This is a mock website and does not involved paying actual money.</p>
+          <p>
+            This is a mock website and does not involve paying actual money. Please press "home" or
+            the head icon to navigate to the main page. <br />
+            This website is built on Vite and React frameworks. It has a fully functioning shopping
+            cart and checkout page, and I am currently building a backend system for the website.
+          </p>
           <div className='footer-social-icons'>
             <img src={assets.facebook_icon} alt='' />
             <img src={assets.twitter_icon} alt='' />
